@@ -24,8 +24,8 @@ body {
 /* product container and image */
 .container {
     display: flex;
-    width: 590px;
-    height: 440px;
+    width: 570px;
+    height: 430px;
     border-radius: 10px;
 }
 
@@ -49,12 +49,15 @@ body {
  .perfume-text1 {
     font-family: 'Monserrat', sans-serif;
     color: hsl(228, 12%, 48%);
+    letter-spacing: 5px;
+    font-size: 12px;
  }
 
  .perfume-brand {
     font-family: 'Fraunces', serif;
     font-size: 2rem;
     color: hsl(212, 21%, 14%);
+    line-height: 30px;
  }
 
  .perfume-text2 {
